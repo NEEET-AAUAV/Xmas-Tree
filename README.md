@@ -31,7 +31,7 @@ A decoder IC is required to control the LEDs independently, enabling the creatio
 
 ### Other Elfs worth mention
 :snowman: [Hugo Leal](https://github.com/HugoLeal)  
-:snowman: Beatriz Silva  
+:snowman: [Beatriz Silva](https://github.com/b-dsilva)
 
 --- 
 
