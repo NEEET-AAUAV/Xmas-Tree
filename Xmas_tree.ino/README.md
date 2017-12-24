@@ -2,11 +2,11 @@
 
 ## CONSTANTS
 ```c
-ROW_HOLD_TIME 			// Time Interval ($\mu s$) a Row value cannot change
-COLUMN_HOLD_TIME     	// Time Interval ($\mu s$) a Row value cannot change
-RND_LED_HOLD_TIME       // Base Time Interval a LED is ON in the Random Mode
-SPIRAL_LED_HOLD_TIME 	// Time Interval (ms) a LED is ON in the Spiral Mode 
-N_PERSIST_ITER		 	// Number of iterations a LED state persists
+ROW_HOLD_TIME         // Time Interval ($\mu s$) a Row value cannot change
+COLUMN_HOLD_TIME      // Time Interval ($\mu s$) a Row value cannot change
+RND_LED_HOLD_TIME     // Base Time Interval a LED is ON in the Random Mode
+SPIRAL_LED_HOLD_TIME  // Time Interval (ms) a LED is ON in the Spiral Mode 
+N_PERSIST_ITER        // Number of iterations a LED state persists
 ```
 
 ## Functions
@@ -57,8 +57,8 @@ void set_rows(uint8_t rows);
 ```
 
 ## Pseudo-Random Algorithm 
-The Random Algorithm used is a Linear-feedback shift register  
-The Algorithm starts with a seed and then using a polynom performs a sequence of XOR Operations.    
-The result of this operations is a new bit that is either retrieved and concatenated to the binary data string  
+The Random Algorithm used to generate the random LEDs sequences is a Linear-feedback shift register (LSFR)   
+These pseudo-random algorithm aplies a polynomial transformation to a given seed, through a sequence of XOR operations and bit shifts.
+This set of operations results in a new pseudo-random bit that is either retrieved and concatenated to the binary data string  
 
 For more informations, visit the [Wikipedia Page on LSFR](https://en.wikipedia.org/wiki/Linear-feedback_shift_register)
