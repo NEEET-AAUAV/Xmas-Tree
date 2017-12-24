@@ -2,9 +2,9 @@
 
 ## CONSTANTS
 ```c
-ROW_HOLD_TIME         // Time Interval ($\mu s$) a Row value cannot change
-COLUMN_HOLD_TIME      // Time Interval ($\mu s$) a Row value cannot change
-RND_LED_HOLD_TIME     // Base Time Interval a LED is ON in the Random Mode
+ROW_HOLD_TIME         // Time Interval (us) a Row value cannot change
+COLUMN_HOLD_TIME      // Time Interval (us) a Row value cannot change
+RND_LED_HOLD_TIME     // Base Time Interval (us) a LED is ON in the Random Mode
 SPIRAL_LED_HOLD_TIME  // Time Interval (ms) a LED is ON in the Spiral Mode 
 N_PERSIST_ITER        // Number of iterations a LED state persists
 ```
