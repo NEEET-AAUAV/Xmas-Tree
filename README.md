@@ -6,8 +6,8 @@ A **simple** (yet rather cool!) Christmas Tree using LEDs and Printed Circuit Bo
 ## :gift: List of Material
 :snowflake: 64 (or 128) LEDs (_preferably 5mm LEDs_)  
 :snowflake: 1 Arduino Nano  
-:snowflake: 16 BC557  
-:snowflake: 2 JHC138 (or 74HCT138)  
+:snowflake: 24 BC557  
+:snowflake: 4 JHC138 (or 74HCT138)  
 :snowflake: SMD Resistors  
 :snowflake: Double Layer Printed Circuit Boards  
 
