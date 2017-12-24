@@ -22,10 +22,10 @@ A **simple** (yet rather cool!) Christmas Tree using LEDs and Printed Circuit Bo
 ## How we did it?
 The projected electrical circuit is similar to a LED matrix, allowing only one LED ON at any given time.   
 To create the illusion of multiple LEDs on, the control algorithm toggles the desired LEDs, one by one, through the decoder hardware at a high frequency, therefore creating the illusion of multiple LEDs being on at the same time.  
-A decoder IC is required if one wants to control the LEDs independitley, enabling the creation of multiple and elaborated animation schemes.  
+A decoder IC is required to control the LEDs independently, enabling the creation of multiple and elaborated animation schemes.  
 
 ## Authors
-:santa: [André Gradim](https://github.com/a-gradim)
+:santa: [André Gradim](https://github.com/a-gradim)  
 :santa: [Pedro Martins](https://github.com/k3rn3l-pan1c)  
 
 
