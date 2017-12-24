@@ -25,12 +25,14 @@ To create the illusion of multiple LEDs on, the control algorithm toggles the de
 A decoder IC is required if one wants to control the LEDs independitley, enabling the creation of multiple and elaborated animation schemes.  
 
 ## Authors
-:santa: [Pedro Martins](https://github.com/k3rn3l-pan1c)  
 :santa: [André Gradim](https://github.com/a-gradim)
+:santa: [Pedro Martins](https://github.com/k3rn3l-pan1c)  
 
-## Other Elfs worth mention
-:snowman: [Hugo Leal](https://github.com/HugoLeal)
-:snowman: Beatriz Silva
+
+### Other Elfs worth mention
+:snowman: [Hugo Leal](https://github.com/HugoLeal)  
+:snowman: Beatriz Silva  
+
 --- 
 
 Wanna get in contact?  
