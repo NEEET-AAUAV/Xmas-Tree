@@ -17,7 +17,7 @@ A **simple** (yet rather cool!) Christmas Tree using LEDs and Printed Circuit Bo
 ## What we did...
 :snowflake: [Arduino Code](Xmas_tree.ino/)  
 :snowflake: [Schematic & Board](PCB)  
-:snowflake: [3D printed parts](...)  
+:snowflake: 3D printed parts: [The Original](https://www.thingiverse.com/thing:537944) and [Our version](https://github.com/NEEET-AAUAV/Xmas-Tree/tree/master/Support)
 
 ## How we did it?
 The projected electrical circuit is similar to a LED matrix, allowing only one LED ON at any given time.   
