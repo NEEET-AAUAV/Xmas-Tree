@@ -2,6 +2,7 @@
 
 A **simple** (yet rather cool!) Christmas Tree using LEDs and Printed Circuit Boards.
 
+![Picture](Pictures/day.jpg)
 
 ## :gift: List of Material
 :snowflake: 64 (or 128) LEDs (_preferably 5mm LEDs_)  
